@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(91): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(91): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(92): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(92): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\titan\documents\visual studio 2015\projects\lab6final\lab6final\main.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab6final.vcxproj -> C:\Users\Titan\Documents\Visual Studio 2015\Projects\lab6final\Debug\lab6final.exe
+  lab6final.vcxproj -> C:\Users\Titan\Documents\Visual Studio 2015\Projects\lab6final\Debug\lab6final.pdb (Partial PDB)
